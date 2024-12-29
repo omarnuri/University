@@ -1,0 +1,3 @@
+﻿  game.c
+C:\Users\Omar\source\repos\Semestr_Project\Semestr_Project\game.c(127,3): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Semestr_Project.vcxproj -> C:\Users\Omar\source\repos\Semestr_Project\x64\Debug\Semestr_Project.exe
